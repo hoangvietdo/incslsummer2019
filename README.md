@@ -47,6 +47,7 @@ rosdep update
 echo "source /opt/ros/melodic/setup.bash" >> ~/.bashrc
 source ~/.bashrc
 sudo apt install python-rosinstall python-rosinstall-generator python-wstool build-essential
+sudo apt install ros-kinetic-ros-control
 ```
 - Check if environment is properly setup:
 ```
