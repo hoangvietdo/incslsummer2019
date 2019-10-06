@@ -1,6 +1,6 @@
 ## Intelligent Navigation and Control Systems Laboratory ##
 
-# Tech Camp for Undergraduate Students - Sejong University - 2019
+### Tech Camp for Undergraduate Students - Sejong University - 2019
 
 License: [iNCSL](https://sites.google.com/view/incsl)
 
